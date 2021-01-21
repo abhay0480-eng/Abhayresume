@@ -1,11 +1,13 @@
 import React from 'react';
 import './qualifications.styles.css';
+import Head from '../HeadingComponent/heading.component';
+import Content from '../ContentComponent/content.component';
 
 function Qualification(){
     return(
         <div>
-        <p className="heading">Qualifications: </p> 
-        <p className="textlayout">Bachelor Of Technology (B.tech) in Computer Science from Modi Institute of Technology, Kota affiliated to  Rajasthan Technical University, Kota. (2014-2018 Batch).</p>
+        <Head heading="Qualifications"/>
+        <Content content="Bachelor Of Technology (B.tech) in Computer Science from Modi Institute of Technology, Kota affiliated to  Rajasthan Technical University, Kota. (2014-2018 Batch)."/>
    <div className="table">
        <table className="qualiTable">
            <tr>

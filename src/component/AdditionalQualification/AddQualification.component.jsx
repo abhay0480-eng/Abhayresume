@@ -1,13 +1,15 @@
 import React from 'react';
 import './AddQualification.styles.css';
+import Head from '../HeadingComponent/heading.component';
+import Content from '../ContentComponent/content.component';
 
 function Addqualification(){
     return(
         <div >
-            <p className="heading">Additional Qualification / Certification: </p>
+            <Head heading="Additional Qualification / Certification"/>
             <div className="Addi">
-            <p><pre className="textlayout">Google Digital Unlock:       Digital Marketing</pre></p>
-            <p><pre className="textlayout">Google Analytics Academy:    Google Analytics for beginners</pre></p>
+            <Content content="Google Digital Unlock:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Marketing"/>
+            <Content clasName="B" content="Google Analytics Academy:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Analytics for beginners"/>
             </div>
         </div>
     )
