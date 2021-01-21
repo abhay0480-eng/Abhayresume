@@ -1,0 +1,20 @@
+.contact{
+    
+    font-size: x-large;
+    
+}
+p{
+    padding-left: 30px;
+}
+
+a{
+    text-decoration: none;
+    color:rebeccapurple;
+}
+a:hover{
+    
+    color: sandybrown;
+}
+span{
+    font-weight: bolder;
+}

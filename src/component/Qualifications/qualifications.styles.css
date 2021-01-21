@@ -1,0 +1,39 @@
+.qua{
+    font-weight: bolder;
+}
+
+.qualification{
+    font-size: 20px;
+}
+.table{
+    text-align: center;
+    margin: auto;
+  width: 60%;
+ padding: 10px;
+
+}
+
+.qualiTable{
+    table-layout: fixed;
+    
+    border-collapse: collapse;
+    border:3px solid black;
+}
+
+th:nth-child(1){
+    width:20%;
+}
+th:nth-child(2){
+    width:20%;
+}
+th:nth-child(3){
+    width:40%;
+}
+th:nth-child(4){
+    width:20%;
+}
+
+th,td{
+    padding:10px;
+    border:2px solid black;
+}
