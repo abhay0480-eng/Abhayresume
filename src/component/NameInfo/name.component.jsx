@@ -3,10 +3,11 @@ import './Name.styles.css';
 
 function Name(pro){
     return(
-        <div className="heading">
+        <div className="h">
         <h1>{pro.name}</h1>
-        <hr ></hr>
+       <hr/>
         </div>
+      
     )
 }
 

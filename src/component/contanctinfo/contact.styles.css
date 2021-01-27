@@ -1,6 +1,7 @@
 .contact{
     
     font-size: x-large;
+    padding-top: 0%;
     
 }
 p{
@@ -17,4 +18,11 @@ a:hover{
 }
 span{
     font-weight: bolder;
+}
+.info{
+    margin-top: 5px;
+    margin-bottom: 0%;
+}
+.inf{
+    margin-top: 5px;
 }

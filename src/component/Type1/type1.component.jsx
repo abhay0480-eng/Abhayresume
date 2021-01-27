@@ -6,7 +6,7 @@ import Content from '../ContentComponent/content.component';
 function Type1(prop){
     return(
         <div className="Career">
-         <Head heading= {prop.heading}/>
+          <Head heading= {prop.heading}/>
           <Content content= {prop.content}/>
         </div>
         
