@@ -8,9 +8,9 @@ function Resumebuilder(){
         
         <div>
            
-            <h1> Welcome Visiter  </h1>
+           
             <div>
-                <Link to='/myresume'><h2> My Resume  </h2></Link>
+                <Link to='/myresume'><h1> RESUME  </h1></Link>
             </div>
             
         </div>
