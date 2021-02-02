@@ -18,7 +18,7 @@ function Myresume() {
     return (
       
       
-      <div>
+      <div className="body">
         
         <Name name="ABHAY KUMAR"/>
         <Contact info="+91 7073271758 | abhay0480sharma@gmail.com "/>

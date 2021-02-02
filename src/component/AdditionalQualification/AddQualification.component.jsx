@@ -8,7 +8,8 @@ function Addqualification(){
         <div >
             <Head heading="Additional Qualification / Certification"/>
             <div className="Addi">
-            <Content content="Google Digital Unlock:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Marketing"/>
+            <Content content="Google Digital Unlock:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Marketing "/>
+
             <Content clasName="B" content="Google Analytics Academy:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Analytics for beginners"/>
             </div>
         </div>

@@ -8,7 +8,7 @@ import './App.css';
 
 function App(){
   return(
-    <div>
+    <div >
     <Pageheader/>
      <Switch>
        <Route exact path='/' component={Resumebuilder}/>

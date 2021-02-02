@@ -10,14 +10,16 @@ function Hobbies(){
                 <ul>
                     <li>
                        
-                          <p className="textlayout A">Travelling</p>        
+                        <p className="textlayout A">Travelling</p>
+                              
                           
                     </li>
                     <li>
                          <p className="textlayout B"> Photography</p>
+                         <p> <a href="https://www.instagram.com/marcopolo103/">https://www.instagram.com/marcopolo103/</a></p>  
                     </li>
                     <li>
-                         <p className="textlayout B">Reading Books </p>
+                         <p className="textlayout B">Reading Books, Computer Games </p>
                     </li>
                 </ul>
             
