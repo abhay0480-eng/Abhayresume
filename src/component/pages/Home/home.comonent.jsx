@@ -4,6 +4,7 @@ import './home.styles.css';
 import logo from '../../../assets/abhay.jpg';
 
 
+
 function Resumebuilder(){
     return(
         
@@ -11,6 +12,7 @@ function Resumebuilder(){
            
            
             <div>
+                
                 <Link to='/myresume'>
                     <img src={logo} alt="Profile pic"/>
                     <h1> MY RESUME  </h1>

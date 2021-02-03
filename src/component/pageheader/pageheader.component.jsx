@@ -6,10 +6,10 @@ import {Link} from 'react-router-dom';
 function Pageheader(){
     return(
         <div>
-             <div>
-                <Link className="mainheading" to='/'> HOME </Link>
+             
+                <Link className="mainheading" to='/Abhayresume'> Profile Picture </Link>
               
-            </div>
+            
         </div>
     )
 }
