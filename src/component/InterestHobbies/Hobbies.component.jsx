@@ -16,7 +16,7 @@ function Hobbies(){
                     </li>
                     <li>
                          <p className="textlayout B"> Photography</p>
-                         <p> <a href="https://www.instagram.com/marcopolo103/">https://www.instagram.com/marcopolo103/</a></p>  
+                       
                     </li>
                     <li>
                          <p className="textlayout B">Reading Books, Computer Games </p>

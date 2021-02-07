@@ -8,14 +8,17 @@ function Qualification(){
         <div>
         <Head heading="Qualifications"/>
         <Content content="Bachelor Of Technology (B.tech) in Computer Science from Modi Institute of Technology, Kota affiliated to  Rajasthan Technical University, Kota. (2014-2018 Batch)."/>
-   <div className="table">
-       <table className="qualiTable">
+        <div className="container">
+       <table className="table   table-striped table-responsive">
+           <thead className="thead-dark">
            <tr>
                <th>Degree/Exam</th>
                <th>Board/University</th>
                <th>Institute/School</th>
                <th>Score</th>
            </tr>
+           </thead>
+           <tbody>
            <tr>
                <td>B.tech</td>
                <td>RTU</td>
@@ -35,8 +38,10 @@ function Qualification(){
                <td>Heritage International School</td>
                <td>65%</td>
            </tr>
+           </tbody>
        </table>
-   </div>
+       </div>
+   
    </div>
 
     )

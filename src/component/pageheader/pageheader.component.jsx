@@ -3,14 +3,52 @@ import './pageheader.styles.css';
 import {Link} from 'react-router-dom';
 
 
+
+
+
 function Pageheader(){
     return(
-        <div>
-             
-                <Link className="mainheading" to='/Abhayresume'> Profile Picture </Link>
-              
+     <div>
+        <nav className="navbar navbar-expand-md  bg-secondary navbar-dark">
+        
+        <Link  className="navbar-brand"  to='/Abhayresume'> RESUME</Link>
+        
+           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span className="navbar-toggler-icon"></span>
+            </button>
             
+            <div className="collapse navbar-collapse" id="collapsibleNavbar">
+          
+          <ul className="navbar-nav">
+            
+            <li className="nav-item active">
+              <Link  className="nav-link"  to='/myresume'> Download Resume </Link>
+            </li>
+    
+            <li className="nav-item">
+              <Link className="nav-link " to='/myresume'>About Me</Link>
+            </li>
+
+            <li className="nav-item">
+              <Link className="nav-link " to='/myresume'>Qualification</Link>
+            </li>
+
+            <li className="nav-item">
+              <Link className="nav-link " to='/myresume'>Projects</Link>
+            </li>
+
+            <li className="nav-item">
+              <Link className="nav-link " to='/myresume'>Hobbies and Interests</Link>
+            </li>
+            
+          </ul>
+          </div>  
+        </nav>
+        
+  
         </div>
+            
+     
     )
 }
 
