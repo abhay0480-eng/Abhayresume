@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/Abhayresume/static/css/main.3e219ac9.chunk.css",
-    "main.js": "/Abhayresume/static/js/main.0b883bba.chunk.js",
-    "main.js.map": "/Abhayresume/static/js/main.0b883bba.chunk.js.map",
-    "runtime-main.js": "/Abhayresume/static/js/runtime-main.82ac619b.js",
-    "runtime-main.js.map": "/Abhayresume/static/js/runtime-main.82ac619b.js.map",
-    "static/js/2.56547df4.chunk.js": "/Abhayresume/static/js/2.56547df4.chunk.js",
-    "static/js/2.56547df4.chunk.js.map": "/Abhayresume/static/js/2.56547df4.chunk.js.map",
-    "static/js/3.9bd537b4.chunk.js": "/Abhayresume/static/js/3.9bd537b4.chunk.js",
-    "static/js/3.9bd537b4.chunk.js.map": "/Abhayresume/static/js/3.9bd537b4.chunk.js.map",
+    "main.css": "/Abhayresume/static/css/main.282efb49.chunk.css",
+    "main.js": "/Abhayresume/static/js/main.37728767.chunk.js",
+    "main.js.map": "/Abhayresume/static/js/main.37728767.chunk.js.map",
+    "runtime-main.js": "/Abhayresume/static/js/runtime-main.b82e16c6.js",
+    "runtime-main.js.map": "/Abhayresume/static/js/runtime-main.b82e16c6.js.map",
+    "static/css/2.150d169a.chunk.css": "/Abhayresume/static/css/2.150d169a.chunk.css",
+    "static/js/2.f8a00df3.chunk.js": "/Abhayresume/static/js/2.f8a00df3.chunk.js",
+    "static/js/2.f8a00df3.chunk.js.map": "/Abhayresume/static/js/2.f8a00df3.chunk.js.map",
+    "static/js/3.a8f3bebe.chunk.js": "/Abhayresume/static/js/3.a8f3bebe.chunk.js",
+    "static/js/3.a8f3bebe.chunk.js.map": "/Abhayresume/static/js/3.a8f3bebe.chunk.js.map",
     "index.html": "/Abhayresume/index.html",
-    "static/css/main.3e219ac9.chunk.css.map": "/Abhayresume/static/css/main.3e219ac9.chunk.css.map",
-    "static/js/2.56547df4.chunk.js.LICENSE.txt": "/Abhayresume/static/js/2.56547df4.chunk.js.LICENSE.txt",
+    "static/css/2.150d169a.chunk.css.map": "/Abhayresume/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.282efb49.chunk.css.map": "/Abhayresume/static/css/main.282efb49.chunk.css.map",
+    "static/js/2.f8a00df3.chunk.js.LICENSE.txt": "/Abhayresume/static/js/2.f8a00df3.chunk.js.LICENSE.txt",
     "static/media/abhay.43f9881f.jpg": "/Abhayresume/static/media/abhay.43f9881f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.82ac619b.js",
-    "static/js/2.56547df4.chunk.js",
-    "static/css/main.3e219ac9.chunk.css",
-    "static/js/main.0b883bba.chunk.js"
+    "static/js/runtime-main.b82e16c6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f8a00df3.chunk.js",
+    "static/css/main.282efb49.chunk.css",
+    "static/js/main.37728767.chunk.js"
   ]
 }
