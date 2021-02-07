@@ -5,8 +5,8 @@ import logo from '../../../assets/abhay.jpg';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import { FaLinkedinIn } from "react-icons/fa";
-import { FaPhoneAlt, FaGithub, FaInstagram } from "react-icons/fa";
+
+import {FaLinkedinIn, FaPhoneAlt, FaGithub, FaInstagram } from "react-icons/fa";
 import {SiGmail  } from "react-icons/si";
 
 class Resumebuilder extends React.Component{
@@ -23,19 +23,19 @@ class Resumebuilder extends React.Component{
                           <h3 className=" display-4 text-center text-break">ABHAY KUMAR</h3>
                           <ul class="nav justify-content-center listmargin">
     <li class="nav-item listspace">
-    <a href="tel:7073271758"><FaPhoneAlt color="black" /></a>
+    <a href="tel:7073271758"><FaPhoneAlt size="25px" color="black" /></a>
     </li>
     <li class="nav-item listspace">
-    <a href="mailto:abhay0480sharma@gmail.com"><SiGmail color="black" /></a>
+    <a href="mailto:abhay0480sharma@gmail.com"><SiGmail size="25px" color="black" /></a>
     </li>
     <li class="nav-item listspace">
-    <a href="https://www.linkedin.com/in/abhay-kumar-587617155/"><FaLinkedinIn color="black"/></a>
+    <a href="https://www.linkedin.com/in/abhay-kumar-587617155/"><FaLinkedinIn size="25px" color="black"/></a>
     </li>
     <li class="nav-item listspace">
-    <a href="https://github.com/abhay0480-eng"><FaGithub color="black"/></a>
+    <a href="https://github.com/abhay0480-eng"><FaGithub  size="25px"color="black"/></a>
     </li>
     <li class="nav-item listspace">
-    <a href="https://www.instagram.com/marcopolo103/"><FaInstagram color="black"/></a>
+    <a href="https://www.instagram.com/marcopolo103/"><FaInstagram size="25px" color="black"/></a>
     </li>
   </ul>
                         

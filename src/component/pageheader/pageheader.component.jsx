@@ -1,6 +1,7 @@
 import React from 'react';
 import './pageheader.styles.css';
 import {Link} from 'react-router-dom';
+import resume from '../../assets/Resume2021.pdf';
 
 
 
@@ -20,27 +21,34 @@ function Pageheader(){
             <div className="collapse navbar-collapse" id="collapsibleNavbar">
           
           <ul className="navbar-nav">
-            
-            <li className="nav-item active">
-              <Link  className="nav-link"  to='/myresume'> Download Resume </Link>
-            </li>
-    
-            <li className="nav-item">
-              <Link className="nav-link " to='/myresume'>About Me</Link>
+
+          <li className="nav-item active ">
+              <Link className="nav-link" to={resume} target="_blank" download>Download Resume</Link>
             </li>
 
-            <li className="nav-item">
-              <Link className="nav-link " to='/myresume'>Qualification</Link>
-            </li>
-
-            <li className="nav-item">
-              <Link className="nav-link " to='/myresume'>Projects</Link>
-            </li>
-
-            <li className="nav-item">
-              <Link className="nav-link " to='/myresume'>Hobbies and Interests</Link>
+            <li className="nav-item  ">
+              <Link className="nav-link" to='/aboutme'>About Me</Link>
             </li>
             
+          <li className="nav-item  ">
+              <Link className="nav-link" to='/qualification'>Qualification</Link>
+            </li>
+
+            <li className="nav-item  ">
+              <Link className="nav-link" to='/technicalskills'>Technical Skills</Link>
+            </li>
+
+            <li className="nav-item  ">
+              <Link className="nav-link" to='/project'>Training and Project</Link>
+            </li>
+
+
+            <li className="nav-item  ">
+              <Link className="nav-link" to='/personaldetails'>Personal Details</Link>
+            </li>
+            
+            
+
           </ul>
           </div>  
         </nav>
