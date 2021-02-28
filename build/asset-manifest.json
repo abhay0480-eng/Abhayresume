@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Abhayresume/static/css/main.f3368bf9.chunk.css",
+    "main.js": "/Abhayresume/static/js/main.449c5e80.chunk.js",
+    "main.js.map": "/Abhayresume/static/js/main.449c5e80.chunk.js.map",
+    "runtime-main.js": "/Abhayresume/static/js/runtime-main.5d0f09e9.js",
+    "runtime-main.js.map": "/Abhayresume/static/js/runtime-main.5d0f09e9.js.map",
+    "static/css/2.150d169a.chunk.css": "/Abhayresume/static/css/2.150d169a.chunk.css",
+    "static/js/2.d923ad50.chunk.js": "/Abhayresume/static/js/2.d923ad50.chunk.js",
+    "static/js/2.d923ad50.chunk.js.map": "/Abhayresume/static/js/2.d923ad50.chunk.js.map",
+    "static/js/3.0a19d70e.chunk.js": "/Abhayresume/static/js/3.0a19d70e.chunk.js",
+    "static/js/3.0a19d70e.chunk.js.map": "/Abhayresume/static/js/3.0a19d70e.chunk.js.map",
+    "index.html": "/Abhayresume/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Abhayresume/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.f3368bf9.chunk.css.map": "/Abhayresume/static/css/main.f3368bf9.chunk.css.map",
+    "static/js/2.d923ad50.chunk.js.LICENSE.txt": "/Abhayresume/static/js/2.d923ad50.chunk.js.LICENSE.txt",
+    "static/media/Resume2021.2db41b34.pdf": "/Abhayresume/static/media/Resume2021.2db41b34.pdf",
+    "static/media/abhay.43f9881f.jpg": "/Abhayresume/static/media/abhay.43f9881f.jpg",
+    "static/media/googlecerti.435322f2.pdf": "/Abhayresume/static/media/googlecerti.435322f2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d0f09e9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.d923ad50.chunk.js",
+    "static/css/main.f3368bf9.chunk.css",
+    "static/js/main.449c5e80.chunk.js"
+  ]
+}
